@@ -1,13 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&family=Bungee&family=Orbitron&display=swap');
 
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('/assets/background.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* Camada escurecida (opcional) */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* escurece o fundo */
+    z-index: 0;
+
+}
+
+/* Conteúdo do app */
+.app-container {
+    position: relative;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0.85); /* fundo branco com transparência */
+    margin: 40px auto;
+    padding: 30px;
+    max-width: 1100px;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
 .logo-title {
-    font-family: 'Bungee', 'Zen Tokyo Zoo', 'Orbitron', sans-serif;
+    font-family: 'Bungee', 'Orbitron', sans-serif;
     font-size: 48px;
     text-align: center;
-    margin: 20px 0;
-    color: #ff2052; /* rosa vibrante */
-    text-shadow: 2px 2px 6px #00000088;
-    letter-spacing: 2px;
+    margin: 30px 0;
+    color: #ff2052;
+    text-shadow: 2px 2px 6px #00000066;
     animation: pulse 3s infinite ease-in-out;
 }
 
@@ -15,28 +50,4 @@
   0% { transform: scale(1); }
   50% { transform: scale(1.05); }
   100% { transform: scale(1); }
-}
-
-body {
-    margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fdfdfd; /* cor de fundo clara */
-    /* background-image: url('/assets/anime-bg.jpg'); */ /* imagem removida */
-    /* filter: brightness(0.2); */ /* filtro removido */
-}
-
-#root {
-    position: relative;
-    z-index: 1;
-}
-
-.app-container {
-    background-color: rgba(255, 255, 255, 0.95); /* fundo branco quase opaco */
-    margin: 40px auto;
-    padding: 20px;
-    max-width: 1100px;
-    border-radius: 12px;
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    position: relative;
-    z-index: 10;
 }
