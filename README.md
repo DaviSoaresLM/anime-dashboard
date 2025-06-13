@@ -1,29 +1,37 @@
 # 📊 Dashboard de Popularidade de Animes
 
-Este projeto consiste em uma aplicação web interativa desenvolvida com a biblioteca Dash (Plotly) em Python. O objetivo é apresentar a popularidade de animes ao longo dos anos utilizando visualizações de dados baseadas em informações coletadas de fontes como AniList e MyAnimeList.
+Este projeto é uma aplicação web interativa desenvolvida com a biblioteca [Dash](https://dash.plotly.com/) (Plotly) em Python. O objetivo é apresentar a popularidade dos animes ao longo dos anos, com base em dados coletados da [AniList API](https://anilist.co/graphiql) via GraphQL.
 
 ---
 
 ## 🎯 Objetivo
 
-Criar um dashboard interativo para contar histórias com dados (_data storytelling_) sobre a popularidade de animes em diferentes contextos, como:
+Criar um dashboard dinâmico e visualmente atrativo para explorar e entender tendências de popularidade dos animes entre os anos de **2015 a 2024**, incluindo:
 
-- 📈 Evolução da popularidade ao longo dos anos  
-- 🎭 Gêneros de anime mais populares  
-- 🏆 Top 10 animes por ano ou temporada  
-- 📺 Plataformas de streaming mais influentes  
-- 🚀 Destaques recentes no crescimento de popularidade  
+- 📅 Filtragem por ano
+- 🎭 Filtragem por gênero
+- 📊 Seleção entre diferentes tipos de gráficos (barras, pizza ou dispersão)
+- 🏆 Visualização dos **Top 5 animes** mais populares por ano
+
+---
+
+## 🖼️ Funcionalidades
+
+- **Dropdowns interativos** para ano, gênero e tipo de gráfico
+- **Gráficos animados** e responsivos usando Plotly
+- **Armazenamento em cache** local para evitar múltiplas requisições à API
+- **Interface visual moderna**, com fundo estilizado e responsivo
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.10+
-- Dash
-- Plotly
-- Pandas
-- Requests
-- AniList API (GraphQL)
+- [Python 3.10+](https://www.python.org/)
+- [Dash](https://dash.plotly.com/)
+- [Plotly Express](https://plotly.com/python/plotly-express/)
+- [Requests](https://docs.python-requests.org/)
+- [AniList API (GraphQL)](https://anilist.co/graphiql)
+- HTML + CSS (customizado com animações e Google Fonts)
 
 ---
 
@@ -31,8 +39,11 @@ Criar um dashboard interativo para contar histórias com dados (_data storytelli
 
 ```plaintext
 anime-dashboard/
-├── assets/               # Arquivos estáticos (CSS, imagens, etc.)
-├── app.py                # Código principal da aplicação
+├── app.py                # Código principal da aplicação Dash
+├── utils/
+│   └── anilist_api.py    # Funções de busca e cache da API AniList
+├── assets/
+│   └── style.css         # Estilos visuais customizados para o dashboard
+├── animes_cache.json     # Cache local com os dados da API
 ├── requirements.txt      # Dependências do projeto
-├── dataset.csv           # Arquivo de dados (opcional)
-└── README.md             # Este arquivo
+└── README.md             # Documentação do projeto
