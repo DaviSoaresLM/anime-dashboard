@@ -1,8 +1,42 @@
-body {
-    background-color: #f8f9fa;
-    font-family: 'Segoe UI', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&family=Bungee&family=Orbitron&display=swap');
+
+.logo-title {
+    font-family: 'Bungee', 'Zen Tokyo Zoo', 'Orbitron', sans-serif;
+    font-size: 48px;
+    text-align: center;
+    margin: 20px 0;
+    color: #ff2052; /* rosa vibrante */
+    text-shadow: 2px 2px 6px #00000088;
+    letter-spacing: 2px;
+    animation: pulse 3s infinite ease-in-out;
 }
 
-h1 {
-    color: #333;
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fdfdfd; /* cor de fundo clara */
+    /* background-image: url('/assets/anime-bg.jpg'); */ /* imagem removida */
+    /* filter: brightness(0.2); */ /* filtro removido */
+}
+
+#root {
+    position: relative;
+    z-index: 1;
+}
+
+.app-container {
+    background-color: rgba(255, 255, 255, 0.95); /* fundo branco quase opaco */
+    margin: 40px auto;
+    padding: 20px;
+    max-width: 1100px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    position: relative;
+    z-index: 10;
 }
