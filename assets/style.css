@@ -11,18 +11,18 @@ body {
     background-repeat: no-repeat;
 }
 
-/* Camada escurecida (opcional) */
-body::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.5); /* escurece o fundo */
-    z-index: 0;
+/*!* Camada escurecida (opcional) *!*/
+/*body::before {*/
+/*    content: '';*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*    background-color: rgba(0, 0, 0, 0.5); !* escurece o fundo *!*/
+/*    z-index: 0;*/
 
-}
+/*}*/
 
 /* Conteúdo do app */
 .app-container {
@@ -32,7 +32,7 @@ body::before {
     margin: 40px auto;
     padding: 30px;
     max-width: 1100px;
-    width: 90%; /* Adicionado */
+    width: 90%;
     border-radius: 16px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
@@ -77,7 +77,6 @@ body::before {
     text-shadow: 0 0 15px #ff2052;
     cursor: default;
 }
-
 /* Animação fade-in */
 @keyframes fadeIn {
     from {
@@ -91,5 +90,6 @@ body::before {
 }
 
 .fade-in {
-    animation: fadeIn 2s ease-out;
+    animation: fadeIn 1s ease-out;
 }
+

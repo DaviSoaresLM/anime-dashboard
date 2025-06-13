@@ -3,7 +3,7 @@ import time
 import json
 import os
 
-CACHE_FILE = "animes_cache.json"
+CACHE_FILE = "animes_cache.json"  # Define o nome do arquivo de cache
 
 def fetch_animes_by_year(year):
     url = "https://graphql.anilist.co"
@@ -43,9 +43,12 @@ def fetch_animes_by_year(year):
 def get_top_animes_range(start_year, end_year):
     # Tenta carregar cache
     if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            print("Carregando dados do cache...")
-            return json.load(f)
+        try:
+            with open(CACHE_FILE, "r", encoding="utf-8") as f:
+                print("Carregando dados do cache...")
+                return json.load(f)
+        except json.JSONDecodeError:
+            print("Cache corrompido ou inválido, buscando dados da API AniList...")
 
     print("Buscando dados da API AniList, aguarde...")
     all_animes = []

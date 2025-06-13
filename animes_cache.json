@@ -1,0 +1,5377 @@
+[
+  {
+    "title": "One Punch Man",
+    "popularity": 657880,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Ansatsu Kyoushitsu",
+    "popularity": 536918,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Death Parade",
+    "popularity": 408004,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Charlotte",
+    "popularity": 366178,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Shokugeki no Souma",
+    "popularity": 354947,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Tokyo Ghoul √A",
+    "popularity": 351437,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Haikyuu!! 2nd Season",
+    "popularity": 349538,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "popularity": 339840,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Overlord",
+    "popularity": 338413,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Owari no Seraph",
+    "popularity": 279760,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Noragami ARAGOTO",
+    "popularity": 278393,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
+    "popularity": 246025,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
+    "popularity": 235858,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Plastic Memories",
+    "popularity": 221850,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Prison School",
+    "popularity": 209732,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Rakudai Kishi no Cavalry",
+    "popularity": 204629,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Kekkai Sensen",
+    "popularity": 199554,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Dragon Ball Super",
+    "popularity": 183787,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "popularity": 179244,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "popularity": 176291,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Owari no Seraph: Nagoya Kessen-hen",
+    "popularity": 171721,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri",
+    "popularity": 165001,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Yamada-kun to 7-nin no Majo",
+    "popularity": 164944,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Akagami no Shirayuki-hime",
+    "popularity": 156589,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Saenai Heroine no Sodatekata",
+    "popularity": 155959,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "High School DxD BorN",
+    "popularity": 153532,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Himouto! Umaru-chan",
+    "popularity": 152553,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Monster Musume no Iru Nichijou",
+    "popularity": 147779,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Nisekoi:",
+    "popularity": 146958,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Kuroko no Basket 3rd SEASON",
+    "popularity": 139884,
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Shinmai Maou no Testament",
+    "popularity": 138532,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Ore Monogatari!!",
+    "popularity": 136308,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Gakusen Toshi Asterisk",
+    "popularity": 136024,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Hibike! Euphonium",
+    "popularity": 132769,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+    "popularity": 132666,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "GANGSTA.",
+    "popularity": 119429,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Rokka no Yuusha",
+    "popularity": 118229,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Owarimonogatari",
+    "popularity": 116802,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Gakkou Gurashi!",
+    "popularity": 112295,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Absolute Duo",
+    "popularity": 106644,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Gintama°",
+    "popularity": 105714,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Durarara!!x2 Shou",
+    "popularity": 100298,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "GOD EATER",
+    "popularity": 99741,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Bakemono no Ko",
+    "popularity": 97960,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "BORUTO: NARUTO THE MOVIE",
+    "popularity": 88296,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Kokoro ga Sakebitagatterun da.",
+    "popularity": 87712,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "One Punch Man: Road to Hero",
+    "popularity": 81976,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Grisaia no Rakuen",
+    "popularity": 80721,
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Durarara!!x2 Ten",
+    "popularity": 79768,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Kamisama Hajimemashita◎",
+    "popularity": 78270,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Boku no Hero Academia",
+    "popularity": 744351,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Kimi no Na wa.",
+    "popularity": 597722,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Koe no Katachi",
+    "popularity": 586729,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Mob Psycho 100",
+    "popularity": 525885,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Boku dake ga Inai Machi",
+    "popularity": 517971,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "popularity": 508911,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "popularity": 439536,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Bungou Stray Dogs",
+    "popularity": 362015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+    "popularity": 317943,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Ansatsu Kyoushitsu 2",
+    "popularity": 317924,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Saiki Kusuo no Ψ-nan",
+    "popularity": 296717,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "popularity": 265198,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Shokugeki no Souma: Ni no Sara",
+    "popularity": 232316,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "ReLIFE",
+    "popularity": 218268,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Bungou Stray Dogs 2nd Season",
+    "popularity": 210638,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Yuuri!!! on ICE",
+    "popularity": 205381,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "orange",
+    "popularity": 204489,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "3-gatsu no Lion",
+    "popularity": 189043,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Kiznaiver",
+    "popularity": 177311,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "91Days",
+    "popularity": 173265,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Koutetsujou no Kabaneri",
+    "popularity": 168352,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Sakamoto desu ga?",
+    "popularity": 167560,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Hai to Gensou no Grimgar",
+    "popularity": 154171,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Nanatsu no Taizai: Seisen no Shirushi",
+    "popularity": 150339,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Kizumonogatari I: Tekketsu-hen",
+    "popularity": 146126,
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Kizumonogatari II: Nekketsu-hen",
+    "popularity": 126174,
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Musaigen no Phantom World",
+    "popularity": 121394,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+    "popularity": 119281,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "DRIFTERS",
+    "popularity": 114674,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "popularity": 111085,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+    "popularity": 110417,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "NEW GAME!",
+    "popularity": 110265,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Ajin",
+    "popularity": 109414,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Sousei no Onmyouji",
+    "popularity": 107428,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri 2",
+    "popularity": 106987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Dagashi Kashi",
+    "popularity": 104426,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Magi: Sinbad no Bouken",
+    "popularity": 103488,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Keijo!!!!!!!!",
+    "popularity": 94310,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Sports"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Gakusen Toshi Asterisk 2",
+    "popularity": 91762,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Watashi ga Motete Dousunda",
+    "popularity": 91378,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Saijaku Muhai no Bahamut",
+    "popularity": 84234,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+    "popularity": 80820,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "popularity": 79369,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Akagami no Shirayuki-hime 2nd Season",
+    "popularity": 77951,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Koyomimonogatari",
+    "popularity": 77810,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Nanbaka",
+    "popularity": 77211,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Amaama to Inazuma",
+    "popularity": 75853,
+    "genres": [
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Shouwa Genroku Rakugo Shinjuu",
+    "popularity": 74481,
+    "genres": [
+      "Drama"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Doukyuusei",
+    "popularity": 74114,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Durarara!!x2 Ketsu",
+    "popularity": 72675,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2016
+  },
+  {
+    "title": "Shingeki no Kyojin Season 2",
+    "popularity": 620256,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Boku no Hero Academia 2",
+    "popularity": 567822,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Black Clover",
+    "popularity": 477528,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kakegurui",
+    "popularity": 396710,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "popularity": 360300,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Made in Abyss",
+    "popularity": 343429,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "popularity": 323704,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kobayashi-san Chi no Maidragon",
+    "popularity": 290711,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Youjo Senki",
+    "popularity": 221797,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Mahoutsukai no Yome",
+    "popularity": 211548,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Masamune-kun no Revenge",
+    "popularity": 203368,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Shokugeki no Souma: San no Sara",
+    "popularity": 203029,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "No Game No Life Zero",
+    "popularity": 201872,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "BORUTO: NARUTO NEXT GENERATIONS",
+    "popularity": 199242,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Tsurezure Children",
+    "popularity": 172006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Sword Art Online: Ordinal Scale",
+    "popularity": 170193,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Eromanga Sensei",
+    "popularity": 167112,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "popularity": 166941,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Blend S",
+    "popularity": 164367,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kuzu no Honkai",
+    "popularity": 161549,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Psychological",
+      "Romance"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+    "popularity": 159003,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Inuyashiki",
+    "popularity": 153244,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Gamers!",
+    "popularity": 152852,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Little Witch Academia (TV)",
+    "popularity": 146960,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Houseki no Kuni",
+    "popularity": 139090,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Tsuki ga Kirei",
+    "popularity": 138153,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Isekai wa Smartphone to Tomo ni.",
+    "popularity": 130165,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kizumonogatari III: Reiketsu-hen",
+    "popularity": 128941,
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Fate/stay night [Heaven's Feel] I. presage flower",
+    "popularity": 125750,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Hajimete no Gal",
+    "popularity": 123403,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Re:CREATORS",
+    "popularity": 120311,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mecha",
+      "Thriller"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Net-juu no Susume",
+    "popularity": 119281,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "3-gatsu no Lion 2",
+    "popularity": 118900,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Gabriel Dropout",
+    "popularity": 118437,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Fate/Apocrypha",
+    "popularity": 116675,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Shoujo Shuumatsu Ryokou",
+    "popularity": 113457,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Aho-Girl",
+    "popularity": 113313,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Owarimonogatari (Ge)",
+    "popularity": 110509,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Koi to Uso",
+    "popularity": 101790,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "popularity": 98415,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+    "popularity": 98213,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Kekkai Sensen & BEYOND",
+    "popularity": 97414,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Saenai Heroine no Sodatekata ♭",
+    "popularity": 92953,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Demi-chan wa Kataritai",
+    "popularity": 92789,
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Imouto sae Ireba Ii.",
+    "popularity": 91963,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+    "popularity": 85541,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Busou Shoujo Machiavellianism",
+    "popularity": 84420,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Shingeki no Kyojin: LOST GIRLS",
+    "popularity": 83262,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Renai Boukun",
+    "popularity": 80386,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Ballroom e Youkoso",
+    "popularity": 77375,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "year": 2017
+  },
+  {
+    "title": "Shingeki no Kyojin Season 3",
+    "popularity": 578831,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Boku no Hero Academia 3",
+    "popularity": 519863,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "popularity": 480703,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Violet Evergarden",
+    "popularity": 462585,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Darling in the Franxx",
+    "popularity": 423724,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken",
+    "popularity": 374589,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Kimi no Suizou wo Tabetai",
+    "popularity": 302323,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "DEVILMAN crybaby",
+    "popularity": 300397,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Wotaku ni Koi wa Muzukashii",
+    "popularity": 280496,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "BANANA FISH",
+    "popularity": 271015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Tokyo Ghoul:re",
+    "popularity": 264577,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Goblin Slayer",
+    "popularity": 259264,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+    "popularity": 251978,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "popularity": 251259,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Sword Art Online: Alicization",
+    "popularity": 249072,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Overlord II",
+    "popularity": 226420,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Overlord III",
+    "popularity": 209365,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Tokyo Ghoul:re 2",
+    "popularity": 202003,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Boku no Hero Academia THE MOVIE: Futari no Hero",
+    "popularity": 194267,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Steins;Gate 0",
+    "popularity": 192025,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Satsuriku no Tenshi",
+    "popularity": 190308,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Grand Blue",
+    "popularity": 188508,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Sports"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Hataraku Saibou",
+    "popularity": 182714,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+    "popularity": 174150,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Saiki Kusuo no Ψ-nan 2",
+    "popularity": 161103,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+    "popularity": 153673,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san",
+    "popularity": 150137,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Sora yori mo Tooi Basho",
+    "popularity": 148990,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Yuru Camp△",
+    "popularity": 147944,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Sword Art Online Alternative: Gun Gale Online",
+    "popularity": 147893,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Zombie Land Saga",
+    "popularity": 138436,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Hinamatsuri",
+    "popularity": 133569,
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Asobi Asobase",
+    "popularity": 130320,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "citrus",
+    "popularity": 126858,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Megalo Box",
+    "popularity": 124573,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Sports"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+    "popularity": 124365,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Psychological"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "FAIRY TAIL (2018)",
+    "popularity": 123729,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Yagate Kimi ni Naru",
+    "popularity": 118939,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "High School DxD HERO",
+    "popularity": 118253,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Death March Kara Hajimaru Isekai Kyousoukyoku",
+    "popularity": 115165,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Baki",
+    "popularity": 115059,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Golden Kamuy",
+    "popularity": 113941,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Dragon Ball Super: Broly",
+    "popularity": 103527,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+    "popularity": 99016,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Kishuku Gakkou no Juliet",
+    "popularity": 96492,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+    "popularity": 94613,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Psychological"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "SSSS.GRIDMAN",
+    "popularity": 93436,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "ReLIFE: Kanketsu-hen",
+    "popularity": 93425,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "B: The Beginning",
+    "popularity": 91496,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Gakuen Babysitters",
+    "popularity": 89979,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2018
+  },
+  {
+    "title": "Kimetsu no Yaiba",
+    "popularity": 829992,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Yakusoku no Neverland",
+    "popularity": 551520,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Shingeki no Kyojin Season 3 Part 2",
+    "popularity": 513715,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "popularity": 470992,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Dr. STONE",
+    "popularity": 463180,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Boku no Hero Academia 4",
+    "popularity": 457531,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "VINLAND SAGA",
+    "popularity": 431406,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "One Punch Man 2",
+    "popularity": 397789,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Enen no Shouboutai",
+    "popularity": 397576,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Tate no Yuusha no Nariagari",
+    "popularity": 386350,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Mob Psycho 100 II",
+    "popularity": 385025,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Dororo",
+    "popularity": 316913,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Tenki no Ko",
+    "popularity": 298416,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Fruits Basket: 1st Season",
+    "popularity": 264548,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Go-toubun no Hanayome",
+    "popularity": 260663,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "BEASTARS",
+    "popularity": 225998,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "popularity": 214797,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kakegurui ××",
+    "popularity": 213110,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "popularity": 209902,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+    "popularity": 206150,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Domestic na Kanojo",
+    "popularity": 191443,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Sword Art Online: Alicization - War of Underworld",
+    "popularity": 189473,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Arifureta Shokugyou de Sekai Saikyou",
+    "popularity": 187034,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Psychological"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Given",
+    "popularity": 185874,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+    "popularity": 176060,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Bungou Stray Dogs 3rd Season",
+    "popularity": 174054,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
+    "popularity": 167526,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Shokugeki no Souma: Shin no Sara",
+    "popularity": 155728,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kenja no Mago",
+    "popularity": 151927,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+    "popularity": 151087,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Mairimashita! Iruma-kun",
+    "popularity": 134170,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+    "popularity": 122263,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Ore wo Suki nano wa Omae dake ka yo",
+    "popularity": 119830,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Bokutachi wa Benkyou ga Dekinai",
+    "popularity": 114782,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "popularity": 111560,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Dumbbell Nan Kilo Moteru?",
+    "popularity": 110745,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life",
+      "Sports"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Promare",
+    "popularity": 98267,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Assassins Pride",
+    "popularity": 98072,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Araburu Kisetsu no Otome-domo yo.",
+    "popularity": 97506,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Date A Live III",
+    "popularity": 96983,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Sewayaki Kitsune no Senko-san",
+    "popularity": 96971,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Isekai Quartet",
+    "popularity": 95090,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Nande Koko ni Sensei ga!?",
+    "popularity": 94852,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Carole & Tuesday",
+    "popularity": 93491,
+    "genres": [
+      "Drama",
+      "Music",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+    "popularity": 92538,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kanata no Astra",
+    "popularity": 89010,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kono Oto Tomare!",
+    "popularity": 87405,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kimi to, Nami ni Noretara",
+    "popularity": 87036,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+    "popularity": 84890,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Mystery",
+      "Romance"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+    "popularity": 84658,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2019
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "popularity": 783295,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "popularity": 424916,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+    "popularity": 374409,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "popularity": 308451,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kami no Tou: Tower of God",
+    "popularity": 288875,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kanojo, Okarishimasu",
+    "popularity": 266793,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "THE GOD OF HIGH SCHOOL",
+    "popularity": 261417,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Haikyuu!! TO THE TOP",
+    "popularity": 257245,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Enen no Shouboutai: Ni no Shou",
+    "popularity": 250807,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+    "popularity": 222246,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Haikyuu!! TO THE TOP 2",
+    "popularity": 221524,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Jibaku Shounen Hanako-kun",
+    "popularity": 207170,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Tonikaku Kawaii",
+    "popularity": 205056,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "GREAT PRETENDER",
+    "popularity": 199694,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan",
+    "popularity": 189089,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+    "popularity": 169547,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Sword Art Online: Alicization - War of Underworld Part 2",
+    "popularity": 167867,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Violet Evergarden Movie",
+    "popularity": 166375,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Fruits Basket: 2nd Season",
+    "popularity": 162252,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Nakitai Watashi wa Neko wo Kaburu",
+    "popularity": 159437,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+    "popularity": 151737,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Darwin's Game",
+    "popularity": 151358,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Dorohedoro",
+    "popularity": 150832,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Fugou Keiji: Balance:UNLIMITED",
+    "popularity": 147362,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Josee to Tora to Sakanatachi",
+    "popularity": 145810,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Akudama Drive",
+    "popularity": 141392,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Made in Abyss: Fukaki Tamashii no Reimei",
+    "popularity": 138841,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kyokou Suiri",
+    "popularity": 138333,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Yuukoku no Moriarty",
+    "popularity": 133169,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Shokugeki no Souma: Gou no Sara",
+    "popularity": 130972,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Gleipnir",
+    "popularity": 130579,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Majo no Tabitabi",
+    "popularity": 128608,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…",
+    "popularity": 126925,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Uzaki-chan wa Asobitai!",
+    "popularity": 126862,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "BNA",
+    "popularity": 115877,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Plunderer",
+    "popularity": 114827,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Haikyuu!! Riku VS Kuu",
+    "popularity": 110679,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "ID: INVADED",
+    "popularity": 110543,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Eizouken ni wa Te wo Dasu na!",
+    "popularity": 104422,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Munou na Nana",
+    "popularity": 104306,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+    "popularity": 103565,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Fate/stay night [Heaven's Feel] III. spring song",
+    "popularity": 100748,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+    "popularity": 100051,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kakushigoto",
+    "popularity": 97311,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Ishuzoku Reviewers",
+    "popularity": 96661,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+    "popularity": 89840,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Deca-Dence",
+    "popularity": 89215,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Yesterday wo Utatte",
+    "popularity": 89116,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "BURN THE WITCH",
+    "popularity": 88352,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Somali to Mori no Kamisama",
+    "popularity": 86460,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2020
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season",
+    "popularity": 539671,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Horimiya",
+    "popularity": 428799,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Tokyo Revengers",
+    "popularity": 381781,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "popularity": 358798,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Boku no Hero Academia 5",
+    "popularity": 347788,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "popularity": 331115,
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Yakusoku no Neverland 2",
+    "popularity": 288404,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+    "popularity": 286571,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Dr. STONE: STONE WARS",
+    "popularity": 282295,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Komi-san wa, Komyushou desu.",
+    "popularity": 265372,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Fumetsu no Anata e",
+    "popularity": 264365,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken 2nd Season",
+    "popularity": 261864,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "popularity": 255322,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Wonder Egg Priority",
+    "popularity": 251128,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "86: Eighty Six",
+    "popularity": 247650,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+    "popularity": 244670,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Ijiranaide, Nagatoro-san",
+    "popularity": 229870,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+    "popularity": 216619,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "SK∞",
+    "popularity": 207279,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Go-toubun no Hanayome ∬",
+    "popularity": 191057,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Ousama Ranking",
+    "popularity": 186725,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Vanitas no Carte",
+    "popularity": 173198,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+    "popularity": 163739,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+    "popularity": 159403,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Vivy: Fluorite Eye’s Song",
+    "popularity": 154664,
+    "genres": [
+      "Action",
+      "Drama",
+      "Music",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken: Stone Ocean",
+    "popularity": 154038,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "86: Eighty Six Part 2",
+    "popularity": 151247,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Fruits Basket: The Final",
+    "popularity": 150547,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Kobayashi-san Chi no Maidragon S",
+    "popularity": 147163,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "takt op.Destiny",
+    "popularity": 146834,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Music"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Mieruko-chan",
+    "popularity": 139979,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Gokushufudou",
+    "popularity": 136866,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Blue Period",
+    "popularity": 132144,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Tsuki ga Michibiku Isekai Douchuu",
+    "popularity": 130541,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "popularity": 128221,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Kumo desu ga, Nani ka?",
+    "popularity": 126793,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Odd Taxi",
+    "popularity": 126766,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "BEASTARS 2",
+    "popularity": 124991,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Jaku-Chara Tomozaki-kun",
+    "popularity": 119137,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Nanatsu no Taizai: Funnu no Shinpan",
+    "popularity": 119130,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
+    "popularity": 116304,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Platinum End",
+    "popularity": 114453,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Tenkuu Shinpan",
+    "popularity": 113468,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Kemono Jihen",
+    "popularity": 110478,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Kanojo mo Kanojo",
+    "popularity": 110435,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+    "popularity": 109602,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Seirei Gensouki",
+    "popularity": 109522,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Tantei wa mou, Shindeiru.",
+    "popularity": 109364,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+    "popularity": 108854,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Sonny Boy",
+    "popularity": 108420,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2021
+  },
+  {
+    "title": "Chainsaw Man",
+    "popularity": 472711,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "SPY×FAMILY",
+    "popularity": 455855,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "popularity": 383681,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season Part 2",
+    "popularity": 351660,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru",
+    "popularity": 315009,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Cyberpunk: Edgerunners",
+    "popularity": 271808,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "SPY×FAMILY Part 2",
+    "popularity": 269020,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Blue Lock",
+    "popularity": 251570,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+    "popularity": 240560,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "popularity": 228881,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Mob Psycho 100 III",
+    "popularity": 210079,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Boku no Hero Academia 6",
+    "popularity": 206710,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Tate no Yuusha no Nariagari Season 2",
+    "popularity": 203782,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Yofukashi no Uta",
+    "popularity": 203289,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "popularity": 201801,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Bocchi the Rock!",
+    "popularity": 200982,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Summer Time Render",
+    "popularity": 178115,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Lycoris Recoil",
+    "popularity": 172381,
+    "genres": [
+      "Action",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kawaii dake ja Nai Shikimori-san",
+    "popularity": 170463,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "BLEACH: Sennen Kessen-hen",
+    "popularity": 156479,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Suzume no Tojimari",
+    "popularity": 152320,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Overlord IV",
+    "popularity": 143399,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Komi-san wa, Komyushou desu. 2",
+    "popularity": 139510,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Hataraku Maou-sama!!",
+    "popularity": 135249,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Tomodachi Game",
+    "popularity": 130038,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+    "popularity": 127830,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kanojo, Okarishimasu 2nd Season",
+    "popularity": 115465,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Fuufu Ijou, Koibito Miman.",
+    "popularity": 109520,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Isekai Oji-san",
+    "popularity": 106761,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Arifureta Shokugyou de Sekai Saikyou 2nd season",
+    "popularity": 106699,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Psychological"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Aharen-san wa Hakarenai",
+    "popularity": 105184,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
+    "popularity": 103855,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Dr. STONE: Ryuusui",
+    "popularity": 94220,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken: Stone Ocean Part 2",
+    "popularity": 92381,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Paripi Koumei",
+    "popularity": 92103,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+    "popularity": 91999,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Go-toubun no Hanayome Movie",
+    "popularity": 89044,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Tensei Shitara Ken Deshita",
+    "popularity": 88369,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+    "popularity": 88199,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "popularity": 86840,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Yuusha, Yamemasu",
+    "popularity": 86829,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+    "popularity": 86725,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Mamahaha no Tsurego ga Motokano datta",
+    "popularity": 86683,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kakkou no Iinazuke",
+    "popularity": 86536,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu",
+    "popularity": 85705,
+    "genres": [
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Vanitas no Carte Part 2",
+    "popularity": 85447,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Fumetsu no Anata e Season 2",
+    "popularity": 84753,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+    "popularity": 83559,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Romantic Killer",
+    "popularity": 80320,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Bubble",
+    "popularity": 76622,
+    "genres": [
+      "Romance",
+      "Sci-Fi",
+      "Sports",
+      "Supernatural"
+    ],
+    "year": 2022
+  },
+  {
+    "title": "Jujutsu Kaisen 2nd Season",
+    "popularity": 355566,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Sousou no Frieren",
+    "popularity": 310097,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "popularity": 281148,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Jigokuraku",
+    "popularity": 255545,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "[Oshi no Ko]",
+    "popularity": 255447,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "MASHLE",
+    "popularity": 215023,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "VINLAND SAGA SEASON 2",
+    "popularity": 205091,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kusuriya no Hitorigoto",
+    "popularity": 201447,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "popularity": 193577,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
+    "popularity": 189034,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+    "popularity": 188436,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "SPY×FAMILY Season 2",
+    "popularity": 175550,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Tengoku Daimakyou",
+    "popularity": 166958,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Dr. STONE: NEW WORLD",
+    "popularity": 157345,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Yamada-kun to Lv999 no Koi wo Suru",
+    "popularity": 150262,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+    "popularity": 139427,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Tomo-chan wa Onnanoko!",
+    "popularity": 132200,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Shangri-La Frontier",
+    "popularity": 130465,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+    "popularity": 128338,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Horimiya: piece",
+    "popularity": 120067,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Tokyo Revengers: Seiya Kessen-hen",
+    "popularity": 117229,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Tate no Yuusha no Nariagari Season 3",
+    "popularity": 116202,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Boku no Kokoro no Yabai Yatsu",
+    "popularity": 114382,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "popularity": 113698,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+    "popularity": 113508,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+    "popularity": 112235,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Watashi no Shiawase na Kekkon",
+    "popularity": 109920,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+    "popularity": 107694,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Skip to Loafer",
+    "popularity": 105466,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "NieR:Automata Ver1.1a",
+    "popularity": 102232,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+    "popularity": 101959,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Undead Unluck",
+    "popularity": 101472,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Bakuen wo!",
+    "popularity": 101279,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Buddy Daddies",
+    "popularity": 100075,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Goblin Slayer II",
+    "popularity": 96819,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Dr. STONE: NEW WORLD Part 2",
+    "popularity": 96514,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
+    "popularity": 92847,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Bungou Stray Dogs 4th Season",
+    "popularity": 89958,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kimi wa Houkago Insomnia",
+    "popularity": 84967,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Ijiranaide, Nagatoro-san 2nd Attack",
+    "popularity": 83734,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Ragna Crimson",
+    "popularity": 80451,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi",
+    "popularity": 80055,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Black Clover: Mahou Tei no Ken",
+    "popularity": 79387,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "PLUTO",
+    "popularity": 79104,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Dead Mount Death Play",
+    "popularity": 78787,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural",
+      "Thriller"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Yakusai-hen",
+    "popularity": 76363,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "SPY×FAMILY CODE: White",
+    "popularity": 76221,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+    "popularity": 75415,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Kubo-san wa Mob wo Yurusanai",
+    "popularity": 74320,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Isekai Nonbiri Nouka",
+    "popularity": 73835,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2023
+  },
+  {
+    "title": "Ore dake Level Up na Ken",
+    "popularity": 313927,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Dandadan",
+    "popularity": 249550,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Kaijuu 8-gou",
+    "popularity": 194759,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "popularity": 185070,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Dungeon Meshi",
+    "popularity": 160933,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "popularity": 143741,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "popularity": 137188,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "WIND BREAKER",
+    "popularity": 135177,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+    "popularity": 134587,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+    "popularity": 134586,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+    "popularity": 134260,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+    "popularity": 131418,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "[Oshi no Ko] 2nd Season",
+    "popularity": 130473,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "popularity": 127431,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Boku no Hero Academia 7",
+    "popularity": 122675,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Tsue to Tsurugi no Wistoria",
+    "popularity": 102205,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Blue Lock VS. U-20 JAPAN",
+    "popularity": 100278,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Yubisaki to Renren",
+    "popularity": 100082,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Kami no Tou: Tower of God 2nd Season",
+    "popularity": 98884,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Ao no Hako",
+    "popularity": 93646,
+    "genres": [
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Make Heroine ga Oosugiru!",
+    "popularity": 91253,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Chiyu Mahou no Machigatta Tsukaikata",
+    "popularity": 86255,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+    "popularity": 86104,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "popularity": 85658,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
+    "popularity": 79774,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Mato Seihei no Slave",
+    "popularity": 76173,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Look Back",
+    "popularity": 76139,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+    "popularity": 75749,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Shangri-La Frontier 2nd Season",
+    "popularity": 75168,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Uzumaki",
+    "popularity": 75073,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Chi. Chikyuu no Undou ni Tsuite",
+    "popularity": 74036,
+    "genres": [
+      "Drama"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+    "popularity": 72544,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Haikyuu!!: Gomi Suteba no Kessen",
+    "popularity": 69632,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Isekai Shikkaku",
+    "popularity": 68304,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Nige Jouzu no Wakagimi",
+    "popularity": 67647,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu",
+    "popularity": 67041,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+    "popularity": 66283,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+    "popularity": 65532,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Ninja Kamui",
+    "popularity": 63929,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Sentai Daishikkaku",
+    "popularity": 62597,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Giji Harem",
+    "popularity": 62443,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Dosanko Gal wa Namara Menkoi",
+    "popularity": 61789,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+    "popularity": 61169,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+    "popularity": 60823,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu Suru",
+    "popularity": 60812,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Gimai Seikatsu",
+    "popularity": 60716,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Mahou Shoujo ni Akogarete",
+    "popularity": 59343,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen",
+    "popularity": 56991,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Nozomanu Fushi no Boukensha",
+    "popularity": 56649,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2024
+  },
+  {
+    "title": "Arifureta Shokugyou de Sekai Saikyou 3rd season",
+    "popularity": 54964,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Psychological"
+    ],
+    "year": 2024
+  }
+]

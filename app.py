@@ -93,7 +93,7 @@ def update_graph(selected_year, selected_genre, chart_type):
         )
 
     elif chart_type == "scatter":
-        # Se o dado 'ranking' não existir, não pode fazer scatter; vamos usar popularity no eixo y e títulos no texto
+        # Se o dado 'ranking' não existir, não pode fazer scatter,  usa popularity no eixo y e títulos no texto
         return px.scatter(
             x=[i+1 for i in range(len(filtered))],  # índice 1..n
             y=[a["popularity"] for a in filtered],
