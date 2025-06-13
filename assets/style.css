@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url('/assets/background.png');
+    background-image: url('background.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -28,13 +28,15 @@ body::before {
 .app-container {
     position: relative;
     z-index: 1;
-    background-color: rgba(255, 255, 255, 0.85); /* fundo branco com transparência */
+    background-color: rgba(255, 255, 255, 0.85);
     margin: 40px auto;
     padding: 30px;
     max-width: 1100px;
+    width: 90%; /* Adicionado */
     border-radius: 16px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
+
 
 .logo-title {
     font-family: 'Bungee', 'Orbitron', sans-serif;
@@ -50,4 +52,44 @@ body::before {
   0% { transform: scale(1); }
   50% { transform: scale(1.05); }
   100% { transform: scale(1); }
+}
+
+.Select-control,
+.Select-menu-outer {
+    background-color: white;
+    color: #333;
+    border-radius: 6px;
+}
+
+.Select-placeholder {
+    color: #666;
+}
+
+.rc-slider-track {
+    background-color: #ff2052;
+}
+
+.rc-slider-handle {
+    border-color: #ff2052;
+}
+.logo-title:hover {
+    color: #ffffff;
+    text-shadow: 0 0 15px #ff2052;
+    cursor: default;
+}
+
+/* Animação fade-in */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 2s ease-out;
 }
