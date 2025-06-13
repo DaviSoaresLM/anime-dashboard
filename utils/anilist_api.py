@@ -1,3 +1,4 @@
+import requests
 def get_top_animes(year=2024):
     url = "https://graphql.anilist.co"
     query = '''
