@@ -7,9 +7,9 @@ animes = get_top_animes_range(2015, 2024)  # só carrega uma vez na inicializaç
 
 app = dash.Dash(__name__)
 app.title = "Anime Popularity Dashboard"
-
 # Carrega todos os animes de 2015 a 2024 na inicialização
 animes = get_top_animes_range(2015, 2024)
+
 
 all_genres = sorted({genre for anime in animes for genre in anime["genres"]})
 
@@ -89,11 +89,11 @@ def update_graph(selected_year, selected_genre, chart_type):
         return px.pie(
             names=list(genre_counts.keys()),
             values=list(genre_counts.values()),
-            title=f"Distribuição dos Gêneros Lançados em {selected_year}"
+            title=f"Distribuição dos Gêneros entre Populares em {selected_year}"
         )
 
     elif chart_type == "scatter":
-        # Se o dado 'ranking' não existir, não pode fazer scatter,  usa popularity no eixo y e títulos no texto
+
         return px.scatter(
             x=[i+1 for i in range(len(filtered))],  # índice 1..n
             y=[a["popularity"] for a in filtered],
